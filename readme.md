@@ -7,7 +7,7 @@
 - Tamagui - https://tamagui.dev
 
 ## Slides
-https://www.figma.com/proto/evEQOt8COL3dIolNuRqFZa/Roc8-Talk-Slides?node-id=2%3A2&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A2
+- https://www.figma.com/proto/evEQOt8COL3dIolNuRqFZa/Roc8-Talk-Slides?node-id=2%3A2&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A2
 
 ## Talk link
-- TODO
+- https://www.youtube.com/watch?v=41itLQ9suGI
